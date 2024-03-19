@@ -1,0 +1,29 @@
+@media (max-width:600px) {
+.contain{
+  background-size:cover;
+}
+/* .box{
+  width:75%;
+} */
+.inputContainer{
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.inputContainer button{
+  width: auto;
+  font-weight: 500;
+}
+.weather{
+  font-size: 8vw;
+  font-weight: bold;
+}
+.temp{
+  font-size: 6.5vw;
+  font-weight: 600;
+}
+.desc{
+  font-size: 5.5vw;
+  font-family: serif;
+}
+}
